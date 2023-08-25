@@ -1,0 +1,42 @@
+body{
+    background-image: url(13189.jpg);
+    
+    margin: 0%;
+    padding: 0%;
+}
+.center{
+    text-align: center;
+    color: white;
+
+}
+.free{
+    text-align: center;
+    color: aliceblue;
+
+}
+.com{
+   
+    text-decoration: underline;
+    color: greenyellow;
+    
+}
+.get{
+    border-style: double;
+    border-width: 5px;
+    border-radius: 15px;
+    border-color: greenyellow;
+    text-align: center;
+    padding: 10px;
+    margin-right: 582px;
+    margin-left: 582px;
+    color: white;
+    font-weight: bold;
+    background-color: greenyellow;
+   
+}
+a{
+    color:white;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right:200px;
+}
